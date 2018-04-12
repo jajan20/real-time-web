@@ -2,10 +2,6 @@
 
 This application is a real-time chat room. People are able to communicate with each other when they are on the same URL at the same time.
 
-/* image here when application is finished */
-
-/Users/suustenvoorde/Documents/GitHub/real-time-web-jamie/screenshots/coverimage.png
-
 ![alt text](./screenshots/coverimage.png "Logo Title Text 1")
 
 
