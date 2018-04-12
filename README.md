@@ -1,3 +1,6 @@
+## Installation
+- npm install
+
 ## Week 1
 
 #### Socket.io
