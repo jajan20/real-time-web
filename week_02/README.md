@@ -3,7 +3,7 @@
 This app will give users more insights on the status of the train transportation. By combining the API provided by the NS and adding socket.io for real-time feedback users are able to check the status of the trains they need to take but can also add missing information. This information is directly available to all other users so they can act accordingly 
 
 ## Preview
-![](/Users/jamie/Documents/Projects/08_realtimeweb/week_02/_assets/images/preview-01.png)
+![](https://raw.githubusercontent.com/jajan20/real-time-web/master/week_02/_assets/images/preview-01.png)
 
 
 ## Table of contents
