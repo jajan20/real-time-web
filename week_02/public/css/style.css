@@ -1,0 +1,48 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+form {
+	display:flex;
+	flex-direction: column;
+	width:22em;
+}
+
+[type="submit"] {
+	margin:.5em;
+	padding:.5em;
+	background-color:#2795EE;
+	width:50%;
+	align-self: center;
+	border:none;
+}
+
+textarea {
+	padding:.5em;
+}
+
+section {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	margin:.5em;
+}
+
+article {
+	width:22em;
+	margin:.5em;
+}
+
+article:nth-child(even) {
+	background-color:#F3F5F6;
+}
+
+pre {
+    white-space: pre-wrap;
+}

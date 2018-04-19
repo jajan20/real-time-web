@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="../css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,700" rel="stylesheet">
+
+	<title>Train Issues</title>
+
+</head>
+
+<body>
+	<section  id="delays">
+		<h1>Delays</h1>
+		<form id="delayForm">
+			<h2>Add issue</h2>
+			
+			<label>Route</label>
+			<input id="delayRoute" type="text">
+			
+			<label>Reason</label>
+			<textarea id="delayReason" type="text" placeholder="Example: The train just killed a bird, now we're stuck.."></textarea>
+			<input type="submit" value="Submit issue">
+		</form>
+
+		<% for (i = 0; i < data.Ongepland.length; i++) { %>
+				<article>
+					<h2><%= data.Ongepland[i].Traject%></h2>
+					<p><%=  data.Ongepland[i].Reden%></p>
+					<p><%= data.Ongepland[i].Bericht%></p>
+					<p><%= data.Ongepland[i].Datum%></p>
+				</article>
+			<% } %>
+			
+
+	</section>
+
+	<section>
+		<pre><%- JSON.stringify(data, null, 1)  %></pre>
+	</section>
+	
+<script src="/socket.io/socket.io.js"></script>	
+<script src="../js/socket-io.js"></script>
+</body>
+
+
+
+</html>

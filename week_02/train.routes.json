@@ -1,0 +1,602 @@
+[
+  {
+    "Serie": 500,
+    "Treinsoort": "Intercity",
+    "Route": "Rotterdam Centraal – Utrecht Centraal– Amersfoort – Zwolle – Groningen"
+  },
+  {
+    "Serie": 600,
+    "Treinsoort": "Intercity",
+    "Route": "Leeuwarden – Meppel – Zwolle – Amersfoort – Utrecht Centraal – Rotterdam Centraal"
+  },
+  {
+    "Serie": 700,
+    "Treinsoort": "Intercity",
+    "Route": "Den Haag Centraal – Schiphol Airport– Amsterdam Zuid – Lelystad Centrum– Zwolle – Groningen"
+  },
+  {
+    "Serie": 800,
+    "Treinsoort": "Intercity",
+    "Route": "Maastricht – Sittard – Roermond – Eindhoven – 's-Hertogenbosch – Utrecht Centraal – Amsterdam Centraal – Alkmaar – Schagen – Den Helder"
+  },
+  {
+    "Serie": 1100,
+    "Treinsoort": "Intercity",
+    "Route": "Den Haag Centraal – Den Haag HS – Delft – Rotterdam Centraal – Breda – Tilburg – Eindhoven"
+  },
+  {
+    "Serie": 1400,
+    "Treinsoort": "Intercity",
+    "Route": "Utrecht Centraal – Amsterdam Centraal – Schiphol Airport – Den Haag HS – Rotterdam Centraal"
+  },
+  {
+    "Serie": 1500,
+    "Treinsoort": "Intercity",
+    "Route": "Amsterdam Centraal – Hilversum – Amersfoort – Deventer"
+  },
+  {
+    "Serie": 1600,
+    "Treinsoort": "Intercity",
+    "Route": "Schiphol Airport – Amsterdam Zuid – Amersfoort – Deventer – Hengelo – Enschede"
+  },
+  {
+    "Serie": 1700,
+    "Treinsoort": "Intercity",
+    "Route": "Den Haag Centraal – Utrecht Centraal– Amersfoort – Deventer – Hengelo – Enschede"
+  },
+  {
+    "Serie": 1800,
+    "Treinsoort": "Intercity",
+    "Route": "Den Haag Centraal – Schiphol Airport– Amsterdam Zuid – Lelystad Centrum– Zwolle – Meppel – Leeuwarden"
+  },
+  {
+    "Serie": 2000,
+    "Treinsoort": "Intercity",
+    "Route": "Den Haag Centraal – Gouda – Utrecht Centraal"
+  },
+  {
+    "Serie": 2100,
+    "Treinsoort": "Intercity",
+    "Route": "Amsterdam Centraal – Haarlem – Leiden Centraal – Den Haag Centraal"
+  },
+  {
+    "Serie": 2200,
+    "Treinsoort": "Intercity",
+    "Route": "Amsterdam Centraal – Haarlem – Leiden Centraal – Den Haag HS – Rotterdam Centraal – Dordrecht – Roosendaal – Vlissingen"
+  },
+  {
+    "Serie": 2300,
+    "Treinsoort": "Intercity",
+    "Route": "Dordrecht – Breda"
+  },
+  {
+    "Serie": 2400,
+    "Treinsoort": "Intercity",
+    "Route": "Lelystad Centrum – Amsterdam Zuid – Schiphol Airport – Leiden Centraal – Den Haag HS – Rotterdam Centraal – Dordrecht"
+  },
+  {
+    "Serie": 2600,
+    "Treinsoort": "Intercity",
+    "Route": "Almere Centrum – Amsterdam Centraal"
+  },
+  {
+    "Serie": 2800,
+    "Treinsoort": "Intercity",
+    "Route": "Rotterdam Centraal – Gouda – Utrecht Centraal"
+  },
+  {
+    "Serie": 2900,
+    "Treinsoort": "Intercity",
+    "Route": "Enkhuizen – Hoorn – Amsterdam Centraal – Utrecht Centraal – 's-Hertogenbosch – Eindhoven – Roermond – Maastricht"
+  },
+  {
+    "Serie": 3000,
+    "Treinsoort": "Intercity",
+    "Route": "Nijmegen – Arnhem Centraal – Ede-Wageningen – Utrecht Centraal – Amsterdam Centraal – Alkmaar – Den Helder"
+  },
+  {
+    "Serie": 3100,
+    "Treinsoort": "Intercity",
+    "Route": "Schiphol Airport – Utrecht Centraal – Ede-Wageningen – Arnhem Centraal – Nijmegen"
+  },
+  {
+    "Serie": 3400,
+    "Treinsoort": "Intercity",
+    "Route": "Haarlem – Beverwijk – Alkmaar"
+  },
+  {
+    "Serie": 3500,
+    "Treinsoort": "Intercity",
+    "Route": "Schiphol Airport – Utrecht Centraal – 's-Hertogenbosch – Eindhoven – Helmond – Venlo"
+  },
+  {
+    "Serie": 3600,
+    "Treinsoort": "Intercity",
+    "Route": "Roosendaal – Breda – Tilburg – 's-Hertogenbosch – Nijmegen – Arnhem Centraal – Zutphen – Deventer – Zwolle"
+  },
+  {
+    "Serie": 3900,
+    "Treinsoort": "Intercity",
+    "Route": "Enkhuizen – Hoorn – Amsterdam Centraal – Utrecht Centraal – 's-Hertogenbosch – Eindhoven – Heerlen"
+  },
+  {
+    "Serie": 4500,
+    "Treinsoort": "Intercity",
+    "Route": "Amsterdam Centraal – Hoorn – Enkhuizen"
+  },
+  {
+    "Serie": 8800,
+    "Treinsoort": "Intercity",
+    "Route": "Leiden Centraal – Alphen a/d Rijn – Woerden – Utrecht Centraal"
+  },
+  {
+    "Serie": 11400,
+    "Treinsoort": "Intercity",
+    "Route": "Gouda – Rotterdam Centraal"
+  },
+  {
+    "Serie": 11600,
+    "Treinsoort": "Intercity",
+    "Route": "Schiphol Airport – Amsterdam Zuid – Duivendrecht – Hilversum – Amersfoort– Amersfoort Schothorst"
+  },
+  {
+    "Serie": 11700,
+    "Treinsoort": "Intercity",
+    "Route": "Amersfoort Schothorst – Amersfoort – Utrecht Centraal – Gouda – Den Haag Centraal"
+  },
+  {
+    "Serie": 12200,
+    "Treinsoort": "Intercity",
+    "Route": "Vlissingen – Roosendaal"
+  },
+  {
+    "Serie": 12600,
+    "Treinsoort": "Intercity",
+    "Route": "Groningen – Assen – Zwolle – Lelystad Centrum – Almere Centrum – Amsterdam Centraal"
+  },
+  {
+    "Serie": 13500,
+    "Treinsoort": "Intercity",
+    "Route": "Eindhoven – Helmond – Venlo"
+  },
+  {
+    "Serie": 21400,
+    "Treinsoort": "Intercity",
+    "Route": "Eindhoven – Utrecht Centraal; Rotterdam Centraal – Eindhoven"
+  },
+  {
+    "Serie": 22200,
+    "Treinsoort": "Intercity",
+    "Route": "Amsterdam Centraal – Amsterdam Sloterdijk – Haarlem"
+  },
+  {
+    "Serie": 22400,
+    "Treinsoort": "Intercity",
+    "Route": "Utrecht Centraal – Amersfoort"
+  },
+  {
+    "Serie": 23400,
+    "Treinsoort": "Intercity",
+    "Route": "Utrecht Centraal – Driebergen-Zeist – Veenendaal-De Klomp – Ede-Wageningen – Arnhem Centraal – Elst– Nijmegen"
+  },
+  {
+    "Serie": 24400,
+    "Treinsoort": "Intercity",
+    "Route": "Amsterdam – Schiphol – Leiden"
+  },
+  {
+    "Serie": 17900,
+    "Treinsoort": "Intercity (Keolis)",
+    "Route": "Raalte – Almelo – Hengelo – Enschede"
+  },
+  {
+    "Serie": "140 / 240",
+    "Treinsoort": "Intercity (NS International / DB Fernverkehr)",
+    "Route": "Amsterdam Centraal – Amersfoort – Deventer – Hengelo – Bad Bentheim – Rheine – Osnabrück Hbf – Hannover Hbf – Berlin Hbf – Berlin Ostbahnhof"
+  },
+  {
+    "Serie": 900,
+    "Treinsoort": "Intercity direct",
+    "Route": "Amsterdam Centraal – Schiphol Airport– Rotterdam Centraal – Breda"
+  },
+  {
+    "Serie": 1000,
+    "Treinsoort": "Intercity direct",
+    "Route": "Amsterdam Centraal – Schiphol Airport– Rotterdam Centraal"
+  },
+  {
+    "Serie": 3800,
+    "Treinsoort": "Sneltrein (Arriva)",
+    "Route": "Zwolle – Emmen"
+  },
+  {
+    "Serie": 13800,
+    "Treinsoort": "Sneltrein (Arriva)",
+    "Route": "Zwolle – Coevorden"
+  },
+  {
+    "Serie": 32100,
+    "Treinsoort": "Sneltrein (Arriva)",
+    "Route": "Maastricht Randwyck – Maastricht – Heerlen"
+  },
+  {
+    "Serie": 37300,
+    "Treinsoort": "Sneltrein (Arriva)",
+    "Route": "Leeuwarden – Groningen"
+  },
+  {
+    "Serie": 3300,
+    "Treinsoort": "Sprinter",
+    "Route": "Leiden Centraal – Hoofddorp – Schiphol Airport – Zaandam – Purmerend – Hoorn Kersenboogerd"
+  },
+  {
+    "Serie": 4000,
+    "Treinsoort": "Sprinter",
+    "Route": "Uitgeest – Zaandam – Amsterdam Centraal – Breukelen – Woerden – Gouda – Rotterdam Centraal"
+  },
+  {
+    "Serie": 4300,
+    "Treinsoort": "Sprinter",
+    "Route": "Hoofddorp – Schiphol Airport – Amsterdam Zuid – Weesp – Almere Centrum – Almere Oostvaarders"
+  },
+  {
+    "Serie": 4400,
+    "Treinsoort": "Sprinter",
+    "Route": "'s-Hertogenbosch – Nijmegen – Arnhem Centraal"
+  },
+  {
+    "Serie": 4600,
+    "Treinsoort": "Sprinter",
+    "Route": "Den Haag Centraal – Leiden Centraal– Schiphol Airport – Amsterdam Sloterdijk – Amsterdam Centraal"
+  },
+  {
+    "Serie": 4700,
+    "Treinsoort": "Sprinter",
+    "Route": "Uitgeest – Zaandam – Amsterdam Centraal"
+  },
+  {
+    "Serie": 4800,
+    "Treinsoort": "Sprinter",
+    "Route": "Amsterdam Centraal – Haarlem – Alkmaar – Hoorn"
+  },
+  {
+    "Serie": 4900,
+    "Treinsoort": "Sprinter",
+    "Route": "Utrecht Centraal – Hilversum – Almere Centrum"
+  },
+  {
+    "Serie": 5000,
+    "Treinsoort": "Sprinter",
+    "Route": "Den Haag Centraal – Den Haag HS – Delft – Rotterdam Centraal – Dordrecht"
+  },
+  {
+    "Serie": 5100,
+    "Treinsoort": "Sprinter",
+    "Route": "Den Haag Centraal – Den Haag HS –Delft – Rotterdam Centraal – Dordrecht"
+  },
+  {
+    "Serie": 5200,
+    "Treinsoort": "Sprinter",
+    "Route": "Tilburg Universiteit – Tilburg – Boxtel – Eindhoven"
+  },
+  {
+    "Serie": 5400,
+    "Treinsoort": "Sprinter",
+    "Route": "Amsterdam Centraal – Haarlem – Zandvoort aan Zee"
+  },
+  {
+    "Serie": 5500,
+    "Treinsoort": "Sprinter",
+    "Route": "Utrecht Centraal – Den Dolder – Baarn"
+  },
+  {
+    "Serie": 5600,
+    "Treinsoort": "Sprinter",
+    "Route": "Utrecht Centraal – Amersfoort – Zwolle"
+  },
+  {
+    "Serie": 5700,
+    "Treinsoort": "Sprinter",
+    "Route": "Utrecht Centraal – Hilversum – Weesp– Amsterdam Zuid – Schiphol Airport – Hoofddorp"
+  },
+  {
+    "Serie": 5800,
+    "Treinsoort": "Sprinter",
+    "Route": "Hoofddorp – Schiphol Airport – Amsterdam Sloterdijk – Amsterdam Centraal"
+  },
+  {
+    "Serie": 5900,
+    "Treinsoort": "Sprinter",
+    "Route": "Dordrecht – Roosendaal"
+  },
+  {
+    "Serie": 6000,
+    "Treinsoort": "Sprinter",
+    "Route": "Utrecht Centraal – Geldermalsen – Tiel"
+  },
+  {
+    "Serie": 6100,
+    "Treinsoort": "Sprinter",
+    "Route": "Woerden – Utrecht Centraal"
+  },
+  {
+    "Serie": 6200,
+    "Treinsoort": "Sprinter",
+    "Route": "Groningen – Assen"
+  },
+  {
+    "Serie": 6300,
+    "Treinsoort": "Sprinter",
+    "Route": "Den Haag Centraal – Leiden Centraal– Heemstede-Aerdenhout – Haarlem"
+  },
+  {
+    "Serie": 6400,
+    "Treinsoort": "Sprinter",
+    "Route": "Eindhoven – Weert"
+  },
+  {
+    "Serie": 6500,
+    "Treinsoort": "Sprinter",
+    "Route": "Utrecht Centraal – Houten Castellum"
+  },
+  {
+    "Serie": 6600,
+    "Treinsoort": "Sprinter",
+    "Route": "Dordrecht – Breda – Tilburg – 's-Hertogenbosch"
+  },
+  {
+    "Serie": 6700,
+    "Treinsoort": "Sprinter",
+    "Route": "'s-Hertogenbosch – Oss"
+  },
+  {
+    "Serie": 6800,
+    "Treinsoort": "Sprinter",
+    "Route": "Den Haag Centraal – Gouda – Gouda Goverwelle"
+  },
+  {
+    "Serie": 6900,
+    "Treinsoort": "Sprinter",
+    "Route": "Utrecht Centraal – 's-Hertogenbosch"
+  },
+  {
+    "Serie": 7000,
+    "Treinsoort": "Sprinter",
+    "Route": "Apeldoorn – Deventer – Almelo – Hengelo – Enschede"
+  },
+  {
+    "Serie": 7300,
+    "Treinsoort": "Sprinter",
+    "Route": "Breukelen – Utrecht Centraal – Driebergen-Zeist – Veenendaal Centrum – Rhenen"
+  },
+  {
+    "Serie": 7400,
+    "Treinsoort": "Sprinter",
+    "Route": "Amsterdam Centraal – Breukelen – Utrecht Centraal – Driebergen-Zeist – Rhenen"
+  },
+  {
+    "Serie": 7500,
+    "Treinsoort": "Sprinter",
+    "Route": "Ede-Wageningen – Arnhem Centraal"
+  },
+  {
+    "Serie": 7600,
+    "Treinsoort": "Sprinter",
+    "Route": "Wijchen – Nijmegen – Arnhem Centraal – Zutphen"
+  },
+  {
+    "Serie": 7700,
+    "Treinsoort": "Sprinter",
+    "Route": "Rotterdam Centraal – Gouda – Gouda Goverwelle"
+  },
+  {
+    "Serie": 7800,
+    "Treinsoort": "Sprinter",
+    "Route": "Den Haag Centraal – Gouda – Utrecht Centraal"
+  },
+  {
+    "Serie": 8100,
+    "Treinsoort": "Sprinter",
+    "Route": "Zwolle – Meppel – Assen – Groningen"
+  },
+  {
+    "Serie": 8600,
+    "Treinsoort": "Sprinter",
+    "Route": "Alphen a/d Rijn – Gouda"
+  },
+  {
+    "Serie": 8700,
+    "Treinsoort": "Sprinter",
+    "Route": "Alphen a/d Rijn – Gouda"
+  },
+  {
+    "Serie": 8900,
+    "Treinsoort": "Sprinter",
+    "Route": "Leiden Centraal – Alphen a/d Rijn"
+  },
+  {
+    "Serie": 9000,
+    "Treinsoort": "Sprinter",
+    "Route": "Leeuwarden – Meppel"
+  },
+  {
+    "Serie": 9600,
+    "Treinsoort": "Sprinter",
+    "Route": "'s-Hertogenbosch – Boxtel – Eindhoven – Helmond – Deurne"
+  },
+  {
+    "Serie": 14000,
+    "Treinsoort": "Sprinter",
+    "Route": "Utrecht Centraal – Gouda – Rotterdam Centraal"
+  },
+  {
+    "Serie": 14600,
+    "Treinsoort": "Sprinter",
+    "Route": "Amsterdam Centraal – Weesp – Almere Centrum – Lelystad Centrum – Zwolle"
+  },
+  {
+    "Serie": 14900,
+    "Treinsoort": "Sprinter",
+    "Route": "Almere Centrum – Hilversum – Utrecht Centraal"
+  },
+  {
+    "Serie": 15400,
+    "Treinsoort": "Sprinter",
+    "Route": "Amsterdam Centraal – Haarlem – Zandvoort aan Zee"
+  },
+  {
+    "Serie": 15800,
+    "Treinsoort": "Sprinter",
+    "Route": "Amersfoort Vathorst – Amersfoort – Hilversum – Weesp – Amsterdam Centraal"
+  },
+  {
+    "Serie": 28300,
+    "Treinsoort": "Sprinter",
+    "Route": "Utrecht Centraal – Utrecht Maliebaan"
+  },
+  {
+    "Serie": 7900,
+    "Treinsoort": "Sprinter (Keolis)",
+    "Route": "Zwolle – Almelo – Hengelo – Enschede"
+  },
+  {
+    "Serie": 8500,
+    "Treinsoort": "Sprinter (Keolis)",
+    "Route": "Zwolle – Kampen"
+  },
+  {
+    "Serie": 32900,
+    "Treinsoort": "Stoomtrein (ZLSM)",
+    "Route": "Simpelveld – Schin op Geul – Valkenburg"
+  },
+  {
+    "Serie": 8000,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Zwolle – Mariënberg – Emmen"
+  },
+  {
+    "Serie": 17800,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Zutphen – Apeldoorn"
+  },
+  {
+    "Serie": 20100,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Groningen – Zuidbroek – Bad Nieuweschans – Weener –  ‒ Leer (Ostfriesl)"
+  },
+  {
+    "Serie": 30800,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Winterswijk – Zutphen"
+  },
+  {
+    "Serie": 30900,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Arnhem Centraal – Doetinchem – Winterswijk"
+  },
+  {
+    "Serie": 31000,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Almelo – Mariënberg – Hardenberg"
+  },
+  {
+    "Serie": 31100,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Arnhem Centraal – Elst – Tiel"
+  },
+  {
+    "Serie": 32000,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Maastricht Randwyck – Maastricht – Heerlen"
+  },
+  {
+    "Serie": 32200,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Nijmegen – Venray – Venlo – Roermond"
+  },
+  {
+    "Serie": 32300,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Nijmegen – Venray – Venlo"
+  },
+  {
+    "Serie": 32400,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Maastricht Randwyck – Maastricht – Sittard – Roermond"
+  },
+  {
+    "Serie": 32500,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Sittard – Heerlen – Kerkrade Centrum"
+  },
+  {
+    "Serie": 36700,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Dordrecht – Gorinchem – Geldermalsen"
+  },
+  {
+    "Serie": 36800,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Dordrecht – Gorinchem"
+  },
+  {
+    "Serie": 37000,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Leeuwarden – Sneek"
+  },
+  {
+    "Serie": 37100,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Leeuwarden – Sneek – Stavoren"
+  },
+  {
+    "Serie": 37200,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Leeuwarden – Harlingen Haven"
+  },
+  {
+    "Serie": 37400,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Leeuwarden – Groningen"
+  },
+  {
+    "Serie": 37500,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Groningen – Zuidbroek – Winschoten – Bad Nieuweschans"
+  },
+  {
+    "Serie": 37600,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Groningen – Roodeschool – Eemshaven"
+  },
+  {
+    "Serie": 37700,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Groningen – Delfzijl"
+  },
+  {
+    "Serie": 37800,
+    "Treinsoort": "Stoptrein (Arriva)",
+    "Route": "Groningen – Veendam"
+  },
+  {
+    "Serie": 30700,
+    "Treinsoort": "Stoptrein (Breng)",
+    "Route": "Arnhem Centraal – Doetinchem"
+  },
+  {
+    "Serie": 31300,
+    "Treinsoort": "Stoptrein (Connexxion)",
+    "Route": "Amersfoort – Barneveld Centrum – Ede-Wageningen"
+  },
+  {
+    "Serie": 31400,
+    "Treinsoort": "Stoptrein (Connexxion)",
+    "Route": "Amersfoort – Barneveld Centrum – Barneveld Zuid"
+  },
+  {
+    "Serie": 31200,
+    "Treinsoort": "Stoptrein (Syntus Twente)",
+    "Route": "Zutphen – Hengelo – Oldenzaal"
+  }
+]
