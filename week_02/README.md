@@ -10,8 +10,9 @@ This app will give users more insights on the status of the train transportation
 
 - [Installation](#installation)
 - [Dependencies](#dependencies)
-- [Features](#features)
 - [How to use](#how-to-use)
+- [Features](#features)
+- [To do](#to-do)
 - [Sources](#sources)
 - [Roadmap](#roadmap)
 - [Requirements](#requirements)
@@ -44,6 +45,12 @@ Let's say you're traveling a certain route, but the NS isn't aware or hasn't upd
 - [ ] Getting real-time data about errors/issues with train transportation.
 - [ ] Adding your own problems or situation with transportation for others to see.
 - [ ] One user adds an issue all other users receive a notification about it.
+
+## To do
+- [ ] Adding a database
+- [ ] Saving user accounts
+- [ ] Styling
+- [ ] Deploy app
 
 ## Roadmap
 - Saving delay messages added by users in a database.
