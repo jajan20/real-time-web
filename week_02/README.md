@@ -79,9 +79,8 @@ use ``` npm install ns-API``` to install the package and use the original README
 When the app is running you can browse to the root URL and you'll get a list of all the delays currently known with the NS. While running, other people can join in and add their own delays. 
 
 **Example**
-```
-Let's say you're traveling a certain route, but the NS isn't aware or hasn't updated their info. As a user, you can add your own delay. Simple fill in the steps; Route -> Reason -> add. This way everyone who joins will get the delay message. 
-```
+
+> Let's say you're traveling a certain route, but the NS isn't aware or hasn't updated their info. As a user, you can add your own delay. Simple fill in the steps; Route -> Reason -> add. This way everyone who joins will get the delay message. 
 
 ## Dependencies
 | Package   | Version |
