@@ -34,6 +34,8 @@ Once you press the submit button the values are pushed inside an array together 
 ## Data
 The user is able to input data which in turn is stored locally on the server. While the server is running every user that joins the app gets to see all the delays added by other users on top of the delays already added by the NS-API.
 
+![](https://raw.githubusercontent.com/jajan20/real-time-web/master/week_02/_assets/images/data-setup.png)
+
 ## Life Cycle
 ![](https://raw.githubusercontent.com/jajan20/real-time-web/master/week_02/_assets/images/lifecycle.png)
 
