@@ -88,7 +88,8 @@ When the app is running you can browse to the root URL and you'll get a list of 
 | EJS       | 2.5.8   |
 | Express   | 4.16.3  |
 | socket.io | 2.1.0   |
-| ns-api      | 2.0.8   |
+| ns-api    | 2.0.8   |
+| dotenv    | 5.0.1   |
 
 ## Features
 - [x] Getting real-time data about errors/issues with train transportation.
