@@ -5,7 +5,7 @@
 This app will give users more insights on the status of the train transportation. By combining the API provided by the NS and adding socket.io for real-time feedback users are able to check the status of the trains they need to take but can also add missing information. This information is directly available to all other users so they can act accordingly 
 
 ## Preview
-![](/Users/jamie/Documents/Projects/08_realtimeweb/screenshots.png)
+![](https://raw.githubusercontent.com/jajan20/real-time-web/master/week_02/_assets/images/screenshots.png)
 
 ## Instructions
 When you're experiencing a delay you can fill in three values:
@@ -35,7 +35,7 @@ Once you press the submit button the values are pushed inside an array together 
 The user is able to input data which in turn is stored locally on the server. While the server is running every user that joins the app gets to see all the delays added by other users on top of the delays already added by the NS-API.
 
 ## Life Cycle
-![](/Users/jamie/Documents/Projects/08_realtimeweb/lifecycle.png)
+![](https://raw.githubusercontent.com/jajan20/real-time-web/master/week_02/_assets/images/lifecycle.png)
 
 ## Events
 When a user inputs data, we need to send it to the server and empty the input fields. Doing this without refreshing is where socket.io comes in handy. A custom event **delay** where I prevent the submit button from refreshing, adding a new date object so that new users know when the delay has been added.
